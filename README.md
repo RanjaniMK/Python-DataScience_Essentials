@@ -1,3 +1,3 @@
-# Python_Programming_Self_Study
+# Python DataScience Essentials
 
 IDE USED: PyCharm
