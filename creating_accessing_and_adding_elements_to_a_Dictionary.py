@@ -7,6 +7,7 @@
 
 ranj_dict = {"Name" : "Ranjani",
              "Sex": "Female",
+             "Sexual Orientation": "Straight",
              "Occupation": "Engineer",
             "Current_Year": 2021}
 
@@ -24,5 +25,4 @@ ranj_dict["University"]="TU Darmstadt"
 #Printing out the dictionary key-value pairs to check if the newest k,v pair -> University: TU Darmstadt is added.
 print(ranj_dict)
 
-#Output:{'Name': 'Ranjani', 'Sex': 'Female', 'Occupation': 'Engineer', 'Current_Year': 2021, 'University': 'TU Darmstadt'}
-
+#Output: {'Name': 'Ranjani', 'Sex': 'Female', 'Sexual Orientation': 'Straight', 'Occupation': 'Engineer', 'Current_Year': 2021, 'University': 'TU Darmstadt'}
