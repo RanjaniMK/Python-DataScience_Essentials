@@ -8,6 +8,9 @@
 #print(squared(4))
 
 # Executing the above same function alternatively using an anonymous function called lambda
+# lambda function is generally used with filter() and map() functions.
+# SYNTAX: map( lambda function, list)
+# SYNTAX: filter(lambda function, list)
 
 y= lambda x:x**2
 
